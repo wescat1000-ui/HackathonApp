@@ -10,5 +10,5 @@ resources:
   - httproute.yaml
 images:
   - name: app
-    newName: ghcr.io/OWNER/REPO
-    newTag: latest
+    newName: ghcr.io/wescat1000-ui/hackathonapp
+    newTag: a5b7bdd
